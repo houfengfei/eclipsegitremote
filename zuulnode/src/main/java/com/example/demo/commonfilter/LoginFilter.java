@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 
+//////////////111111111111111
 @Component
 public class LoginFilter extends ZuulFilter{
 	//过滤器的具体执行代码
